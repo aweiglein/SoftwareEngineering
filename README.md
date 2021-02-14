@@ -8,9 +8,11 @@ Proposed Software solution to meet the requirements for a new Customer Relations
   <li>Compare Waterfall vs Agile Methodology</li>
   <li>Create two visual representations of your software solution (e.g., storyboard, flowchart, UML diagram, ERD) that illustrate how the system process or workflow aligns with and supports the business process</li>
   <li>Create a test plan with test cases for three different functional aspects of your software solution, including the following:
-    <li>preconditions for each  test case</li>
-    <li>steps for each  test case</li>
-    <li>expected results for each test case</li></li>
+    <ul class="square">
+      <li>preconditions for each  test case</li>
+      <li>steps for each  test case</li>
+      <li>expected results for each test case</li>
+    </ul>
 </ul>
 
 <h2>Project Overview</h2>
