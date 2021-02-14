@@ -1,4 +1,4 @@
-# Software Engineering - Customer Relationship Management System Design
+# Software Engineering
 Proposed Software solution to meet the requirements for a new Customer Relationship Management system. Solution includes the creation of a software system design and test plan.
 
 <h2>Project Requirements</h2>
