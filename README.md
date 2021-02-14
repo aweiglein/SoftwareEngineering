@@ -1,5 +1,6 @@
 # Software Engineering
 Proposed Software solution to meet the requirements for a new Customer Relationship Management system. Solution includes the creation of a software system design and test plan.
+<br><br>
 
 <h2>Project Requirements</h2>
 <ul>
@@ -9,9 +10,9 @@ Proposed Software solution to meet the requirements for a new Customer Relations
   <li>Create two visual representations of your software solution (e.g., storyboard, flowchart, UML diagram, ERD) that illustrate how the system process or workflow aligns with and supports the business process</li>
   <li>Create a test plan with test cases for three different functional aspects of your software solution, including the following:
     <ul class="square">
-      <li>preconditions for each  test case</li>
-      <li>steps for each  test case</li>
-      <li>expected results for each test case</li>
+      <li>Preconditions for each  test case</li>
+      <li>Steps for each  test case</li>
+      <li>Expected results for each test case</li>
     </ul>
 </ul>
 <br><br>
