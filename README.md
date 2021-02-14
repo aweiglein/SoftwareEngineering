@@ -2,6 +2,8 @@
 Proposed Software solution to meet the requirements for a new Customer Relationship Management system. Solution includes the creation of a software system design and test plan.
 <br><br>
 
+<img src="SoftwareSolution.png">
+
 <h2>Project Requirements</h2>
 <ul>
   <li>Design a software system that includes a purpose statement, overview of the problem, goals and objectives for the project and solution, prerequisites, scope, and environment.</li>
