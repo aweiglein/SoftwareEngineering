@@ -2,7 +2,7 @@
 Proposed Software solution to meet the requirements for a new Customer Relationship Management system. Solution includes the creation of a software system design and test plan.
 <br><br>
 
-<img src="SoftwareSolution.png"><br>
+<img src="SoftwareSolution.png"><br><br>
 
 
 <h2>The Challenge</h2>
