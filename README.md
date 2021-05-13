@@ -26,9 +26,3 @@ The project is to implement a customer relationship management (CRM) system for 
     </ul>
 </ul>
 <br><br>
-
-
-<h2>The Solution</h2>
-<ul>
-  </li></li>
-</ul>
